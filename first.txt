@@ -7,3 +7,4 @@ git commit 4
 git commit 5
 git commit last
 変更しましょう。
+git status
